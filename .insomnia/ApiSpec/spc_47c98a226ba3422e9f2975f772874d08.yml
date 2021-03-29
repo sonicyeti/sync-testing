@@ -1,7 +1,7 @@
 _id: spc_47c98a226ba3422e9f2975f772874d08
 type: ApiSpec
 parentId: wrk_35a44c3092e340119038aab8c6faadea
-modified: 1616521193657
+modified: 1617028407290
 created: 1616521193652
 fileName: Swagger Petstore 1.0.2
 contents: >-
@@ -18,7 +18,7 @@ contents: >-
     contact:
       email: apiteam@swagger.io
     license:
-      name: Apache 2.0
+      name: Apache 2.0 
       url: http://www.apache.org/licenses/LICENSE-2.0.html
   tags:
     - name: pet
